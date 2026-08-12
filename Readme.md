@@ -56,14 +56,15 @@
 ---
 
 👩‍💻 Geliştirici Bilgileri & İletişim
-**Geliştirici: Şeyma Nur BAKAN
-**Unvan / Rol: 2. Sınıf Yönetim Bilişim Sistemleri Öğrencisi
-**GitHub: (https://github.com/SnBakan)
-**LinkedIn: (https://tr.linkedin.com/in/seymanurbakan)
-**E-posta: seymanurbakan.467@gmail.com
+
+Geliştirici: Şeyma Nur BAKAN
+Unvan / Rol: 2. Sınıf Yönetim Bilişim Sistemleri Öğrencisi
+GitHub: (https://github.com/SnBakan)
+LinkedIn: (https://tr.linkedin.com/in/seymanurbakan)
+E-posta: seymanurbakan.467@gmail.com
 
 ---
 
 🎓 Akademik Bağlam & Proje Geçmişi
-**Kurum / Bölüm: Bursa Uludağ Üniversitesi / Yönetim Bilişim Sistemleri
-**Geliştirme Tarihi: Nisan 2026
+Kurum / Bölüm: Bursa Uludağ Üniversitesi / Yönetim Bilişim Sistemleri
+Geliştirme Tarihi: Nisan 2026
